@@ -1,0 +1,12 @@
+Algorithm
+
+
+ 1.You can choose whatever db you are comfortable with.
+
+ 2.You have freedom to create table with proper column names.
+
+ 3.You are allowed to use any libraries or packages.
+
+ 4.Expecting appropriate naming conventions to be followed for Backend Files, DB,Tables.
+ 
+ 5.Should follow coding hest practices and create a flexible code. Should follow proper exception handling.
